@@ -12,7 +12,7 @@ ms.date: 09/12/2022
 
 # Object level security
 
-This article explains how to embed Power BI content that uses OLS in a Power BI *App owns data* (embed for your customers)scenario.
+This article explains how to embed Power BI content that uses OLS in a Power BI *App owns data* (embed for your customers) scenario.
 
 In this scenario, the ISV has a table with sensitive data and metadata that they want to hide from the report customers.
 
